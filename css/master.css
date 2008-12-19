@@ -1,0 +1,38 @@
+body {
+	background-color: #e6e6e6;
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+a:visited, a:link {
+	font-weight: bold;
+	text-decoration: none;
+	letter-spacing: 0.1em;
+	color: #191919;
+}
+
+h1 {
+	text-align: right;
+	font: small-caps 10em Georgia, "Times New Roman", Times, serif;
+	background-color: #191919;
+	color: #fbff00;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
+p {
+	text-align: center;
+	color: #191919;
+}
+
+ul {
+	list-style-type: square;
+	list-style-position: inside;
+}
+
+a:hover, a:active {
+	color: #fcff48;
+	text-decoration: none;
+	background-color: #191919;
+	padding: 0.2em;
+}
+
